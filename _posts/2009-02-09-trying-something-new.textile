@@ -2,7 +2,6 @@
 layout: post
 title: Trying something new.
 ---
-h1. {{ page.title }}
 
 p(meta). 9 Feb 2009 - Sydney
 
