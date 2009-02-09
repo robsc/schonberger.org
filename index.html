@@ -4,7 +4,7 @@ title: Robert Schonberger
 ---
 
 <div id="home">
-  <h1>Latest Post</h1>
+  <h1>Latest Posts</h1>
   <ul class="posts">
     {% for post in site.posts limit:3 %}
     <li><span><a href="{{post.url}}">{{ post.title}}</a></span><div id="post">{{post.content}}</div></li>
