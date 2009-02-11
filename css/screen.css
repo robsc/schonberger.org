@@ -190,3 +190,7 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+blockquote {
+  font-style: italic;
+}
