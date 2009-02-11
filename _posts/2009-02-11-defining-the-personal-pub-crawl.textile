@@ -1,10 +1,18 @@
 ---
 layout: post
-title: Trying something new.
+title: Defining the 'Personal Pub Crawl'
 ---
 
-p(meta). 9 Feb 2009 - Sydney
+p(meta). 11 Feb 2009
 
-So, i've been trying out something new, so that I can have a more customizable version of my site. this is what i'm coming up with. I'm wondering how this is going to go. 
+Many of you are familiar with the <a href="http://en.wikipedia.org/wiki/Pub_Crawl">Pub Crawl</a>, otherwise known as the Bar Hop, Bar Tour, and so forth. After having a chat to a friend the other day i'd like to define what is to be known as <cite>The Personal Pub Crawl</cite>. 
 
-Look out for nicer posts in here. And a few ads. Maybe.
+I spoke to this friend, and it turned out that he was going to have a night after work where, in quick succession: 
+<ol>
+<li>Would have a drink with a friend at a pub near work.</li>
+<li>Go for drinks with people from work.</li>
+<li>Go for drinks with another friend in another part of town.</li>
+<li>Go for a friendly drink at a restaurant for someone who is going to get married</li>
+</ol>
+
+All in the space of something like 4 hours, on a weeknight. It occurred to me that this is in fact a personal pub crawl. What else could it really be?
