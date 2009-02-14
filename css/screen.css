@@ -194,3 +194,7 @@ ul.posts {
 blockquote {
   font-style: italic;
 }
+
+.center {
+  text-align: center;
+}

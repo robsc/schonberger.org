@@ -11,5 +11,5 @@ Florists sell out of flowers, Newsagents sell out of cards, Fancy restaurants se
 
 Either way, I hope you're all enjoying it with or without someone you love, and I dedicate <a href="http://www.someecards.com/upload/valentine_s_day/this_is_the_most_special_of_the_estimated.html">This card</a> (Can you believe I found a non offensive card at someecards?)
 
-<div class="center"><img src="images/card.jpg"></div>
+<div class="center"><img src="/images/card.jpg"></div>
 
