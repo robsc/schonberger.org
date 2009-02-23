@@ -1,0 +1,20 @@
+---
+layout: post
+title: Creative Commons for Australian Beginners
+---
+
+p(meta). 23 Feb, at home, a little sick.
+
+A few days ago, I noticed a really interesting <a href="http://twitter.com/TurnbullMalcolm/status/1214539908">twitter message</a> from someone:
+<cite>  I am not familiar with creative commons...could you expand? </cite>
+
+thats from Malcolm Turnbull, leader of the Australian Opposition, former Lawyer and techonology entrepeneur. It dawned on me that I haven't seen a good use of <a href="http://www.creativecommons.org">Creative Commons</a> in Australia. I looked at the <a href="http://wiki.creativecommons.org/index.php?title=Special:Ask&offset=0&limit=500&q=[[Category%3ACasestudy]]&p=format%3Dbroadtable&po=%3FCountry%0A%3FAuthor%0A%3FFormat%0A&sort=Country&order=ASC">case studies</a>, and it looks like actually, people are using CC how it should be. 
+
+Theres a <a href="http://www.dictionaryofsydney.org/">Dictionary Of sydney</a> that gets historians to contirbute whilst still letting them keep copyright over their contributed materials. And theres a bunch of bands that use CC to distribute their music. But in total, theres 130 case studies on the website. Thats not a lot, in my mind. Maybe i'm wrong. 
+
+Has CC been used and held up in courts around the world? in Australia? I want to hear that it makes a difference. Does CC hold up in Australia? I took a look at the Australian Version of it, and the only sentence that I could see that was different was:
+<cite> The construction, validity and performance of this Licence shall be governed by the laws in force in New South Wales, Australia.</cite>
+
+So what happens to all the cases that would happen in Victoria, Queensland, or Hutt River? 
+
+OK, so this is raising more questions for me than it's answering. Has anyone had any experience iwht CC in australia? Anyone know if it's held up in Australian courts? Or not? Hope someone can answer :)
