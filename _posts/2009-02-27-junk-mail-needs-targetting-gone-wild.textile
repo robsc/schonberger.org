@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Junk Mail Targeting: How much is there?
+title: Junk Mail Targeting—How much is there.
 ---
 
 p(meta). 23 Feb, at home, a little sick.
@@ -15,5 +15,5 @@ I don't care how good the place could be, I'm not going to go there. It could be
 
 Can anyone think of a sane reason for this? Or perhaps a funny explanation that makes it seem like it was a good idea to advertise in Sydney? 
 
-BTW: Go to the Paragon. I hear <a href="http://www.yourrestaurants.com.au/guide/?action=venue&venue_url=paragon_cafe"> it's good</a>.
+BTW, Go to the Paragon. I hear <a href="http://www.yourrestaurants.com.au/guide/?action=venue&venue_url=paragon_cafe"> it's good</a>.
 
