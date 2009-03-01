@@ -1,0 +1,14 @@
+---
+layout: post
+title: Downtime sucks!
+---
+
+p(meta). 03 March Figuring out some mystery dashboard.
+
+So, if you're not a computing person, I want to give you a little bit of basic advice. Keeping a service online is <i>hard</i>. Really hard. Case in point, is that this site was down for, oh, 2 days over the weekend. It's been running on a machine somewhere in Texas in some little data center, which is great, but the hard disk isn't backed up in any way, and the machine had just started giving a whole bunch of cute little hard disk errors last week. Eep?
+
+Normally, in most production environments, theres fancy services around that let you just pull out and replace hard disks. And if the whole computer was to blow up, there would be some other prepared backup failover that would just start humming along. But this is an amateur little operation :) Whats our backup plan? Why, get a different machine with a different data center, and just deal with a couple of days of downtime. Sigh. 
+
+Once that was done, which is mosre painful (and at the same time, less painful, thanks Omar!) than you might imagine, you have to go and fight through some clandestine web interface called plesk. Plesk is what you'd like in a web based administration interface, but it has all the right knobs in all the wrong places, turns websites off by default (thanks, Plesk!) . Oh, and did I mention theres a delay of 10 seconds between clicking on something and some feedback on this site? Yeah.
+
+Anyway, things are fine now, I believe we're now on a box that has RAID on. Hooray. Let this be a lesson to you all: Don't assume you'll just have uptime. Because you won't.
