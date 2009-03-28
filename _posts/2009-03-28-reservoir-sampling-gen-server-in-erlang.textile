@@ -1,0 +1,14 @@
+---
+layout: post
+title: A Reservoir sampling server for erlang, written as a gen_server.
+---
+
+p(meta). 28 March, Home, a little slow.
+
+Taking a random sample of n elements from N tends to come up as an important problem all the time, and I think software written Erlang is no different. Sometimes, it's interesting to find a distributed sample of n elements when the total number of elements is based off of a stream of unknown size. I've quickly made a gen_server to generate random samples of a stream of messages sent to it, and i've made the source code available at <a href="http://github.com/robsc/gen_sample/tree/master">http://github.com/robsc/gen_sample/tree/master</a>. Documentation is in the source code.
+
+Erlangs message passing system fits in really nicely with the whole notion of a stream of unknown length, and so it felt natural to implement whats known as Reservoir sampling. Each message that passes through the server has an equal chance of being selected. The gen_server I wrote this morning for a bit of a test does just that : You pass it the pool of items to sample and the items are chosen with equal probability from the stream. Have a look at the source code if you're interested, but it's fairly simple to use. cast with <code>{add, Value}</code> to add a value, and then call with <code>get_values</code> to get the sample of the stream. In the meantime, it's just a regular looking gen_server. 
+
+If you're interested in the algorithm, it's a well known technique known as Reservoir Sampling. The simplest writeup i've seen for it is actually in Knuths Seminumerical Algorithms. The reliance is on a good random number generator though, and i'm not a fan of using the linear congruence algorithms built into the runtime. I'm hoping someone out there has a nice plug and play for a different random number generator, but for now, it's quite usable, and will give you a good random and well distributed sample of the inputs. 
+
+If you've got any questions, please feel free to get in touch. If you have a patch to the code, please send it: I'd love to turn this into a proper library. 
