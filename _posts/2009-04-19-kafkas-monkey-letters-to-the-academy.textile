@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kafkas Monkey: A real letter to the academy.
+title: Kafkas Monkey - a real letter to the academy.
 ---
 
 p(meta). DVD weekend!
