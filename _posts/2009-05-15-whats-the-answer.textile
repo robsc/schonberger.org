@@ -9,10 +9,10 @@ I talked yesterday a little bit about journals, and how much they are worth. Som
 
 Jordan Mechners journal talks about the pain of having to redo some employees work because it sucked. He couldn't have done that at the time. 
 
-I sort of realised, hmm, this is actually something that computers do really badly. Everything is geared to the 'show this now' sort of thing; Facebook shows you peoples conversations and updates in real time. FriendFeed is the same. Twitter, for all it's cuteness, is based purely off of immediate release. 
+I sort of realized, hmm, this is actually something that computers do really badly. Everything is geared to the 'show this now' sort of thing; Facebook shows you peoples conversations and updates in real time. FriendFeed is the same. Twitter, for all it's cuteness, is based purely off of immediate release. 
 
-But theres some value in seeing something from the past, as it was then. Something that can only be recorded at the time, but released later. So I had a thought: why not make a product that automagically delay-twitters, or delay submits something. 
+But there's some value in seeing something from the past, as it was then. Something that can only be recorded at the time, but released later. So I had a thought: why not make a product that automatically delay-twitters, or delay submits something. 
 
 A sort of 'time machine' : Something that can be recorded, kept around, and then automatically released a few years later. Fire and forget. And then in a few years, all sorts of fascinating feedback from people. Otherwise, you're left writing something like Rob Pike <a href="http://commandcenter.blogspot.com/2006/06/i-cant-find-this-on-web-so-here.html">talking at MIT in 1991</a>, and what he thought of getting heckled at the time. Maybe he could have published this the day after, maybe not.
 
-Just a thought. Theres no money in this product though.
+Just a thought. There's no money in this product though.
