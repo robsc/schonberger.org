@@ -1,0 +1,19 @@
+---
+layout: post
+title: Erlang preview, And what makes content creation so hard?
+---
+
+p(meta). Watching an SBS doco about Bin Laden
+
+So, a few weeks ago I wrote a short snippet of code in Erlang that was kind of handy. I got a good response and people liked the little code snippet. 
+
+I've walked away a little bit from writing technical things, primarily because my days are full of being technical and I like writing about theatre a lot. Either way, one of the things that people always show off as an example is a toy map-reduce starter in Erlang, writing a parallel implementation of a map function. Yariv Sadan <a href="http://yarivsblog.com/articles/2008/02/08/the-erlang-challenge/"> posed a pmap challenge </a>, asking people to write a particular style of parallel in process mapper in Erlang (and to try in other languages). 
+
+One of the things that surprises me here is that a lot of these implementations are a little bit too complicated, and over engineer what most people will want to do: apply a function to a set of inputs. I think a simpler implementation would be possible, one that is more efficient, but with fewer guarantees. I'll do a proper write up and talk about performance here. More soon, in other words, but just keep pmap in mind. 
+
+So the 2nd half: this post is just proof that creating content for blogs on a regular basis is hard. Really hard. I feel for journalists who have to come up with a column every day, or every week: coming up with an interesting topic is tough. It's sometimes tempting for me to just go and futz around with the website instead. 
+
+I actually figure thats what can happen. Whenever I see a new format on a blog, I figure now "Oh, it probably means that they're having a hard time making new content". I did this too a few days ago, when I switched to a new web host. It was so much easier than writing a new post, something that could be interesting. Something that I'd want friends to see. 
+
+Speaking of which, I'm going to go and write some content.
+
