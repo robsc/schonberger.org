@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August: Osage County At the Music Box in New York
+title: August, Osage County At the Music Box in New York
 ---
 
 p(meta). On the plane to SF
