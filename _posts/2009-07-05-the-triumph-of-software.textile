@@ -1,0 +1,18 @@
+---
+layout: post
+title: The Triumph of Software over everything in consumer computing..
+---
+
+p(meta). Drinking my espresso from a Bodum mug in Bondi.
+
+Ever since I was a kid computers have, as expected, been getting faster and faster. Thats OK. I remember the times before the Pentium, with a 386 or 486, and how things just kept marching onward and upward. Thats progress. Computers used to be marketed on the number of hertz, and the amount of ram immediately. Then things changed. In the last few years, Intel worked to abstract away a bit of this megahertz stuff to let you give names to computers: Atom, Core, Core 2, Centrino, etc.
+
+There was a good reason for this, namely, that some CPUs could outperform others at a much lower hertz, and so, the numbers comparison had to die. While this was happening, something curious happened with the speed of computers. They stopped mattering. The difference between the 486 and the Pentium was that I could play back mp3s without stuttering. The difference between the Pentium 3 I have and a Core 2? For me, not too much. 
+
+So we've come down to a situation where, every computer you can buy can easily browse the web, play music, and play back videos without breaking a sweat. That goes for mobile phones too (sure, the iPhone 3gs is faster than the original, but, for the most part, thats a small banana). People have noticed, and consumer behavior has changed. 
+
+What does this mean? Well, overwhelmingly, it means that good software triumphs over all. When I buy a computer or phone now, I barely look at the CPU configurations; I want to know about the software. The best thing about my mobile phone now? It's running Android. My laptop? Mac OSX. I don't even know, off the top of my head, how fast the CPU is.
+
+I was looking for a little portable media gateway, and, really, the CPU wasn't a part of the decision process at all. All I am looking for was what software it ran, what the user interface was like, and what the thing looks like. 
+
+In other words, Good Software is triumphing over everything.
