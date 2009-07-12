@@ -1,0 +1,18 @@
+---
+layout: post
+title: My quick review and overview of PubSubHubBub
+---
+
+p(meta). Waiting for my bread to bake.
+
+Google recently announced a new pubsub protocol, <a href="http://code.google.com/p/pubsubhubbub/">Pubsubhubbub</a> as a way of trying to remove the way that various feed programs today do polling behind the scenes. My first thought was that, well, the pubsub extensions to XMPP do this already, as in <a href="http://xmpp.org/extensions/xep-0060.html">XEP 0060</a>. I kept reading though, and I think there's a good fit for the protocol. 
+
+So, the way the protocol works, is that servers talk to each other and have a simple, authorization free robust way of publishing and subscribing to different resources. The trouble with XMPP authorization is that you need to be logged in, and the protocol itself has a lot more to parse; 
+
+Subscribing to a Pubsubhubbub feed is simple: Subscribers need to be able to write a simple request via a POST, and be able to handle an incoming POST requesting confirmation of the request. That's it. I don't think that could be any easier. Registering a publisher is pretty similar, too;
+
+That's all well and dandy, but the problem is adoption. The first use is to have an additional line in ATOM feeds that specifies where that feeds hub is. After that, the Atom feed itself becomes superseded, with the complexities of updates and notifications hidden away inside the hub. For subscribers that don't know about hubs, that's fine: They can just ignore the extra element. 
+
+In other words: this protocol is trivial for subscribers to implement, makes a mass subscriber to things, e.g., friendfeed, happier because they don't have to poll for new content, and is layered invisibly on top of existing infrastructure, so developers are at leisure to support the new stuff. 
+
+In other words, I like it. I hope people take advantage and just start writing simple subscribers to replace their polling code. And if you are reading this, and you've done so, write about the actual results. I want to know how much bandwidth and CPU this ends up saving the web.
