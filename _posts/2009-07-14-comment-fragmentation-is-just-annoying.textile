@@ -1,0 +1,27 @@
+---
+layout: post
+title: Comment Fragmentation, the result of content aggregation
+---
+
+p(meta). Grumbling, and taking it out on my blogs.
+
+So, for a while, I've had <a href="http://www.disq.us">disqus</a> comments enabled on my blog. And yesterday, after about, oh, 6 months, I finally got my first comment on the disqus comments available down the bottom of every post. Thats great. It's not the first time that this has happened though, and it made me realize what typically happens. Now that there are a bunch of content aggregators out there, I end up letting the world know I've written something by: 
+<ul>
+<li>Updating the rss feed on this site, which happens auto-magically from this software</li>
+<li>Creating a short URL and putting it up as a face book status, so my friends on facebook can see what I've written.</li>
+<li>Writing a twitter update to let those who follow me on twitter see what I've written with the same short URL.</li>
+<li>Writing an explicit, and sometimes slightly longer little blurb about what I've written, with the real URL on friendfeed.
+</ul>
+Wait a second, I did all that, just to make sure that people who I think might care that I've written something know I've written something? goodness. Oh well, such is life&mdash;you have to do what you have to do. Hang on though, that means that, in order to see what people think of what I've written, I need to
+<ol>
+<li> Log in to facebook and see if anyone leaves a comment, or direct message about my post.
+<li> See twitter, and see if people retweet, or do the @robsc thing (don't get me started about that) , or anything else.
+<li> Log in to friendfeed. Actually, I don't have to, they've done really well and send me an email I can respond to with comments about my post.
+<li> Look at my web site to see if someone has written something from disqus. Oh, goodness.
+</ol>
+
+Getting pretty ridiculous. I guess the only good one here is Friendfeed, since they push responses to me so I know; Thanks friendfeed. Disqus is a dismal failure, because, well, most of my readers don't read my blog per se, they only go there because I  post something new. I'm not a destination blog. 
+
+This is pretty silly though; I guess this is all the old conversation about where the conversation happens. And for me? Well, 90% of the comments and the feedback is all on friendfeed. Thats because it's easy to see, easy to update, and gives me the most feedback on what I've written. Everything else is small potatoes, and is just plain annoying. 
+
+Oh, and by the way, the disqus comment was from someone promoting their startup.
