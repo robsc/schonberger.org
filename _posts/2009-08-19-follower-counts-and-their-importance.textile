@@ -1,0 +1,14 @@
+---
+layout: post
+title: Follower counts, and do they matter?
+---
+
+p(meta). In Sydney, sunny warm winters day.
+
+I've got an account on a couple of these <a href="http://en.wikipedia.org/wiki/Social_network_service">Social Networks</a>, and they all have something slightly different about the way they work; E.g., Twitter has this limit on the length of messages, Facebook has <em>friends</em> and not <em>followers</em>. Lots of people have talked about how that affects interaction. There are some things, though, that change the way that people interact that are very simple. 
+
+all these social networks let you see the number of friends, or the number of followers that you've got. For instance, on Friendfeed, you can see <a href="http://friendfeed.com/robsc/">my page</a> and see my statistics. You can do the same on twitter too. Fine. Twitter does something that facebook and friendfeed currently don't do: they show someone's statistics, the number of followers, as soon as they log in. Thats not such a big deal, except, it lets people put on a metric; It's also prominent whenever you look at someone's history page. 
+
+What does this mean? Well, you get to see people competing for the number of followers. Indeed, the question "How many followers do you have" is one that twitter users ask every now and then. I haven't heard people who use other systems ask that nearly as often. That mens that people try to get more 'friends' more actively on twitter than the other networks. Facebook does this now by suggesting people to add (they've been suggesting my friends mothers for the last few days). 
+
+It's really subtle, but I think that this very small change feeds peoples subtle pleasure centers; Twitter users love having hundreds of followers; People on facebook don't care as much today how many 'friends' they have. It changes the conversation, and it changes, subtly, the motivation people have for using a system. I guess it's why people have been adding more and more twitter accounts, because, well, theres this subconscious pleasure center that loves having 150 followers more than having 100 followers. If you disagree, please get in touch;
