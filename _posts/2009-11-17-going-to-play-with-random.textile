@@ -10,4 +10,11 @@ I decided that it was a good time to play and try to write a module, so I looked
 
 The rand package is broken up a little, into 2 distinct types. One, is a struct called Rand that implements many of the conveniance methods to retrieve random numbers that conform in some way to a range, like 0-6. The other is an interface that is intended to yield random numbers, called a <code>Source</code> . Source is an <em>interface</em> in the Go tradition, which analogous to interfaces or full abstract classes in Java and C++, for instance. I decided to override this Source interface as an exercise; I've put the results up online on <a href="http://github.com/robsc/go">my github repository</a> for everyone to follow along on. It's a quick writeup, more as a learning exercise than anything else, so here I went. 
 
-First things first, I realised I just wanted to back my Source with a user specified file - usually something like <code>/dev/random</code>
+First things first, I realised I just wanted to back my Source with a user specified file - usually something like <code>/dev/random</code>. I created a new interface that <a href="http://github.com/robsc/go/blob/42ebd03316cdd2eaadf593b91dd74328cd60babb/filesource/filesource.go#L16">added one method to the Source</a>, namely a Close method, to allow the file to be closed. 
+<blockquote> 
+	type FileBasedSource interface {
+		rand.Source;
+		Close();
+	}
+</blockquote>
+Wow, that was easy. I just declared an included Interface, and a zero argument method. Thats it. 
