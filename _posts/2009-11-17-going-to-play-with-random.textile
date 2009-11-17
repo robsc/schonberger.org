@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing a first Go package, as an experience
+title: Writing a quick Go package, as an experience
 ---
 p(meta). From the bus home.
 
@@ -17,4 +17,12 @@ First things first, I realised I just wanted to back my Source with a user speci
 		Close();
 	}
 </blockquote>
-Wow, that was easy. I just declared an included Interface, and a zero argument method. Thats it. 
+Wow, that was easy. I just declared an included Interface, and a zero argument method. Thats it. I extended an interface this easily. 
+
+Then, what I really love, is the use of Duck typing. I just wrote a couple of methods that basically create a private struct, and return the FileBasedSource interface defined above. Pretty easy. I had to fiddle with the sys calls to open the file descriptors, and then one more fiddly part to convert an [8]byte into an int64, which can almost certainly be improved. What I do is, byte by byte, convert to a uint64, and shift its bits. I'm not sure that theres a better way, but, I leave it as a TODO. 
+
+Then, a quick test, and a second function in the package, to allow for a <code>/dev/urandom</code> style of implementation. Using defer was very natural, and it felt right to place an opener, and its relevant closing functionality right next to each other. After all that, a little bit of a main to test that randomness was doing its right thing, and here it is, whacked into git. Take a look at the code, compiling is straightforward and <i>very</i> fast, as expected. 
+
+So what was the experience like? Easy. Fun. I had no trouble hooking together the bits that I wanted to, and testing was a breeze too. Duck typing was a breath of fresh air, and in this case at least, the interface and struct system felt very comfortable to use. Extending an interface was natural; The syntax was comfortable, even though some complain about the reversed order, I found that it made no difference to the way I read code. 
+
+Whats next? something more meaty. Or maybe, if people think this package is useful, i'll clean it up. Your feedback is very appreciated, so please, get back to me. 
