@@ -1,0 +1,14 @@
+---
+layout: post
+title: Moneyball—Why only for sport?
+---
+
+I watched Moneyball a couple of weeks ago. It's a great movie that, apart from letting Brad Pitt and Jonah Hill strut their acting stuff, talks about using statistics to really find the value of baseball players rather than having human beings talk about them behind a closed room. 
+
+This was great - and the movie goes on to show how successful this approach has been. People have also talked about doing a statistical player approach in other sports: e.g., in Ice Hockey has <a href="http://www.theglobeandmail.com/sports/hockey/the-moneypuck-revolution/article2178766/">Moneypuck</a>.
+
+So the question is: when will this happen in other team based activities? I see no reason why a statistics based approach can't be used to create teams of surgeons where nurses, surgeons, radiologists, anesthetists all have similar success metrics that can be found.
+
+Hell, even in my industry: there are quantifiable metrics for an engineer. Lines of code produced. Bugs fixed. Bugs discovered. Feedback from peers. Feedback from management. A lot of companies i've seen use a fairly ad hoc approach to hiring, promotions and team creation: getting a bunch of people together in a room, and having a decision based partly on facts and partly on gut feel.
+
+I wonder when a more evidence based decision process will come into the non-sporting arena. Or rather, when even more of it does. MBAs and management consultants can get back to me right now and tell me what trend i've been missing over the last 20-30 years, while I catch up and think about this for the next couple of hours.
