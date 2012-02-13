@@ -1,0 +1,18 @@
+---
+layout: post
+title: Design: Familiar Operation, Familiar Failure.
+---
+
+A few months ago I bought an <a href="http://www.amazon.com/gp/product/B0051QVESA">Amazon Kindle</a> to try to answer for myself whether or not it's better than reading books on paper? 
+
+I love reading a book on paper: I know how it works. And I can do it anywhere, if I have my book. I just open it up, and it 'works' : the book is just there. There's no magic buttons to press, no batteries to charge. The only thing to worry about, I guess, is tearing the book apart, or getting it drenched. 
+
+The Kindle? Flipping to the next page is a bit funny (You press a button on the side), and you kind of have to charge it every few months. You press a button to turn it on, but otherwise, it looks like a printed page more or less. Less, but that's not such a big deal. It's 'good enough'. 
+
+Except, well, it <em>fails</em> in ways that a book doesn't.
+
+A few weeks ago I found myself standing outside in -15<sup>C</sup> temperatures. I wanted to read while waiting outside in this weather, and all of a sudden, after a few pages… my Kindle rebooted. It turns out that reading in sub zero temperatures doesn't work yet. Who would have thought? I was kind of annoyed, but hey, now I know. 
+
+So, I started wondering. What happens in failure. People design for making sure that something works as expected, but I found this failure really perplexing. I'd love to have "planned failure" a more important design aspect. A book keeps working in cold weather, why doesn't my kindle? 
+
+To me this was as if my Prius didn't work in the rain. Or my espresso machine wouldn't work on Tuesdays.
