@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design: Familiar Operation, Familiar Failure.
+title: On Design. Familiar Operation, Familiar Failure.
 ---
 
 A few months ago I bought an <a href="http://www.amazon.com/gp/product/B0051QVESA">Amazon Kindle</a> to try to answer for myself whether or not it's better than reading books on paper? 
