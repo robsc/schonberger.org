@@ -9,7 +9,7 @@ Recently, Rob Pike wrote a little bit of history of Go, talking about how <a hre
 
 Consider the barest, simplest control structure in Software Developement, the <i>if</i> statement. Lets think about this in C++, where we often write something like the following:
 
-{% highlight c++ linenos %}
+{% highlight java linenos %}
 if (a) {
   b();
 }
