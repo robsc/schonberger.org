@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "The Less is More approach, in coding. On a small scale"
+title: "Double Checked Locking: keep it volatile & above 1.5"
 ---
-p(meta). Jul 29 2012
+p(meta). Feb 10 2009
+
 
 Recently, Rob Pike wrote a little bit of history of Go, talking about how <a href="http://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html">Less is <em>exponentially</em> more.</a>. I've gone through learning Ruby in the last few weeks, and I want to give a minute exmaple of just how true this is, and compare Go (or, frankly, many other languages) to Ruby, and how Less is More. 
 
@@ -15,8 +16,60 @@ if (a) {
 if (a) { b(); }
 // Or if we wanted to be really silly, 
 if (!a) {
-	// Do nothing!
+  // Do nothing!
 } else {
-	b();
+  b();
 }
 {% endhighlight %}
+So for a little while now, i've been encouraging people in the team to always use Double Checked Locking in java. Whats that you may ask? Well, in Java, getting a synchronized lock on things can be slow. A lot of code, including code in <code>java.util.*</code> has points like this: 
+
+{%highlight java linenos %}
+private Object expensive;
+
+public Object getSomething() {
+  synchronized {
+    if (expensive) {
+      expensive = new Object(); 
+    }
+  }
+  return expensive;
+}
+{% endhighlight %}
+
+The problem here is that you always try to get the lock. The nicer idiom, that is called Double Checked Locking is: 
+
+{%highlight java linenos %}
+public Object getSomething() {
+  if (null == expensive) {
+    synchronized {
+      if (null == expensive) {
+        expensive = new Object(); 
+      }
+    }
+  }
+  return expensive;
+}
+{% endhighlight %}
+
+This results in a way to only get the lock, and it looks hunky dory. Well almost. Java has a memory model that allows the situation to get muddled, whereby if two different threads are running, and the JVM decides that some optimizations are better, the JVM is free to set the object reference on <code>Object expensive</code> before the constructor has been fully called. Oops! Thats can be a disaster. 
+
+So what are you supposed to do? Well, there are several idioms, but essentially, the problem is that the JVM has decided to optimise this beyond what it should. If you use Java >= 1.5 and use the volatile keyword, you can be guaranteed that the field is a barrier - and that you'll get it fully initialized; That is, in Java 1.5 and above, you can do the following to be safe: 
+
+{%highlight java linenos %}
+private volatile Object expensive;
+
+public Object getSomething() {
+  if (null == expensive) {
+    synchronized {
+      if (null == expensive) {
+        expensive = new Object(); 
+      }
+    }
+  }
+  return expensive;
+}
+{% endhighlight %}
+
+And be done with it. A slightly more thorough <a href="http://tinyurl.com/1rja">"Double Checked Locking" Is Broken </a> article describes the problem in full, with a delve into depths ot the JVM memory model. 
+
+Alternatively, Wikipedia to the rescue provides several examples of different ways of instantiating singletons in Java and other languages in the <a href="http://tinyurl.com/l3ch5">Singleton Pattern</a> article.
