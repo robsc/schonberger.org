@@ -6,9 +6,10 @@ title: The 'Less is More' approach, in coding. On a small scale
 Recently, Rob Pike wrote a little bit of history of Go, talking about how <a href="http://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html">Less is <em>exponentially</em> more.</a>. I've gone through learning Ruby in the last few weeks, and I want to give a minute exmaple of just how true this is, and compare Go (or, frankly, many other languages) to Ruby, and how Less is More. 
 
 Consider the barest, simplest control structure in Software Developement, the <em>if</em> statement. Lets think about this in C++, where we often write something like the following.
-{% highlight c++ %}
+<div>{% highlight java %}
+{% raw %}
 if (a) {
-	b
+  b
 }
 // Or the following abbreviation, without the { }
 if (a) b
@@ -18,7 +19,8 @@ if (!a) {
 } else {
 	b
 }
-{% endhighlight %}
+{% endraw %}
+{% endhighlight %}</div>
 Fairly simple; There's only one real way of writing our code, even though using the else, we can see that, yes, there was a roundabout way of doing this. In <A href="http://golang.org">Go</a>, we have the same thing, basically, except we don't have to use as many brackets. We can write, instead of that, the following.
 {% highlight go %}
 if a {
