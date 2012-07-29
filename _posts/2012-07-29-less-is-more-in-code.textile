@@ -9,14 +9,14 @@ Recently, Rob Pike wrote a little bit of history of Go, talking about how <a hre
 Consider the barest, simplest control structure in Software Developement, the <em>if</em> statement. Lets think about this in C++, where we often write something like the following.
 {%highlight java linenos %}
 if (a) {
-  b;
+  b();
 }
 // Or the following abbreviation, without the { }
-if (a) { b; }
+if (a) { b(); }
 // Or if we wanted to be really silly, 
 if (!a) {
 	// Do nothing!
 } else {
-	b;
+	b();
 }
 {% endhighlight %}
