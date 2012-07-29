@@ -7,7 +7,9 @@ p(meta). Feb 10 2009
 
 Recently, Rob Pike wrote a little bit of history of Go, talking about how <a href="http://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html">Less is <em>exponentially</em> more.</a>. I've gone through learning Ruby in the last few weeks, and I want to give a minute exmaple of just how true this is, and compare Go (or, frankly, many other languages) to Ruby, and how Less is More. 
 
-{% highlight java linenos %}
+Consider the barest, simplest control structure in Software Developement, the <i>if</i> statement. Lets think about this in C++, where we often write something like the following:
+
+{% highlight c++ linenos %}
 if (a) {
   b();
 }
