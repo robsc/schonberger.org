@@ -23,6 +23,7 @@ if (!a) {
 }
 {% endhighlight %}
 p. Fairly simple; There's only one real way of writing our code, even though using the else, we can see that, yes, there was a roundabout way of doing this. In <a href="http://golang.org">Go</a>, we have the same thing, basically, except we don't have to use as many brackets. We can write, instead of that, the following.
+
 {% highlight go linenos%}
 if a {
   b;
