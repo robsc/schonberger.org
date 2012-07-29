@@ -13,6 +13,8 @@ Consider the barest, simplest control structure in Software Developement, the <i
 if (a) {
   b();
 }
+// or even
+if (a) b();
 // Or, the flip side
 if (!a) {
   // Do nothing
@@ -33,7 +35,7 @@ if !a {
 }
 {% endhighlight %}
 
-Note that we don't have the simpler, completely brace free model, because <a href="http://golang.org/doc/effective_go.html#if">Go makes braces mandatory on if blocks.</a>. So far this is all very nice, and it means that when you read a piece of code, there's really only one or two patterns to look out for. Once you learn how an if works, you're done. 
+Note that we don't have the simpler, completely brace free model, because <a href="http://golang.org/doc/effective_go.html#if">Go makes braces mandatory on if blocks</a>. So far this is all very nice, and it means that when you read a piece of code, there's really only one or two patterns to look out for. Once you learn how an if works, you're done. 
 
 Looking at how to do all this in Ruby, and we find a different way. Ruby allows many more ways of writing the same expression; There's two reasons for this behaviour.
 <ol>
