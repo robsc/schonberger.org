@@ -20,7 +20,7 @@ if (!a) {
   b();
 }
 {% endhighlight %}
-Fairly simple; There's only one real way of writing our code, even though using the else, we can see that, yes, there was a roundabout way of doing this. In <A href="http://golang.org">Go</a>, we have the same thing, basically, except we don't have to use as many brackets. We can write, instead of that, the following.
+Fairly simple; There's only one real way of writing our code, even though using the else, we can see that, yes, there was a roundabout way of doing this. In <a href="http://golang.org">Go</a>, we have the same thing, basically, except we don't have to use as many brackets. We can write, instead of that, the following.
 {% highlight go %}
 if a {
   b;
@@ -31,12 +31,13 @@ if !a {
 } else {
   b;
 }
-{% endhighlight %},
+{% endhighlight %}
+
 Note that we don't have the simpler, completely brace free model, because <a href="http://golang.org/doc/effective_go.html#if">Go makes braces mandatory on if blocks.</a>. So far this is all very nice, and it means that when you read a piece of code, there's really only one or two patterns to look out for. Once you learn how an if works, you're done. 
 
 Looking at how to do all this in Ruby, and we find a different way. Ruby allows many more ways of writing the same expression; There's two reasons for this behaviour.
 <ol>
-  <li> In addition to if, there's <em>unless</em>, which is just an "if not" shorthand</li>
+  <li> In addition to if, there's <i>unless</i>, which is just an "if not" shorthand</li>
   <li> conditionals can be written as modifiers to a line, so that code is only executed if the suffix is true.</li>
 </ol>
 Let's see what this looks like in practice, in Ruby.
