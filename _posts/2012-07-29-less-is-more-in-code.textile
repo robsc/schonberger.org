@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The "Less is More" approach, in coding. On a small scale
+title: "The Less is More approach, in coding. On a small scale"
 ---
 p(meta). 29 July 2012 - on my Couch.
 
@@ -19,5 +19,4 @@ if (!a) {
 } else {
 	b
 }
-
 {% endhighlight %}
