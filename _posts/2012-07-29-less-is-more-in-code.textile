@@ -41,7 +41,6 @@ Looking at how to do all this in Ruby, and we find a different way. Ruby allows 
 	<li> conditionals can be written as modifiers to a line, so that code is only executed if the suffix is true.</li>
 </ol>
 Let's see what this looks like in practice, in Ruby.
-<notextile>
 {% highlight ruby %}
 # The simple way
 if a
@@ -68,7 +67,6 @@ end
 # as a modifier
 b unless !a
 {% endhighlight %}
-</notextile>
 Wow, what a set of combinations. I guess this is nicer for some people who don't like reading inverted conditionals, but the confusion stems from having so many different ways of writing your code. Following the flow of control of some code in Ruby, means I need to keep my mind on reading the conditionals, seeing which of the patterns above the code falls into, and then following the program logic. In Go, Java, C++, or most other languages, the lack of choice makes it easier for me to concentrate on what I need to do. 
 
 On the small scale, this is what I mean by 'Less is More' . Having choice isn't always a good thing. Most companies i've seen have Style guides for the programming languages they use, and often they say "We don't use this feature in this language, because it confuses our engineers." . I certainly agree, and even on the small things, like conditional expressions, they can make a big difference.
