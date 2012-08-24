@@ -1,0 +1,26 @@
+---
+layout: post
+title: Why is Abortion such a hot topic in the USA?
+---
+p(meta). August 24 2012. Debugging code and writing.
+
+p. I've lived in the USA for a little over two years now, and one notable political difference, amongst many, is just how prominent, loud and constant a debate about abortion is here. I'll spare the details, but last week <a href="http://en.wikipedia.org/wiki/Todd_Akin">Todd Akin</a> said something that has become <i>very</i> controversial. He said:
+
+<blockquote>
+Well you know, people always want to try to make that as one of those things, well how do you, how do you slice this particularly tough sort of ethical question. First of all, from what I understand from doctors, that’s really rare. If it’s a legitimate rape, the female body has ways to try to shut that whole thing down. But let’s assume that maybe that didn’t work or something. I think there should be some punishment, but the punishment ought to be on the rapist and not attacking the child.
+</blockquote>
+
+What an arsehole. I don't want to talk about how wrong he is, because it's clear that he is, but mostly about why American politicians are so interested in this topic, keep talking about it, and why, although this is a topic in Australian politics, the <a href="http://en.wikipedia.org/wiki/Abortion_in_Australia">situation and debate</a> are much more subdued. I want to find a rational, plausible reason why it's such a different debate here than in Australia.
+
+Politicians are self motivated, and in the states, congressmen, congresswomen and other politicians have a single task for elections, namely.
+<blockquote>
+On the day of the election, ensure that there is at least one more vote for me than for any other person.
+</blockquote>
+
+Which is pretty much what most politicians need to do. This of course happens in Australia, too. So what's different? Firstly, Elections in Australia are typically <i>preferential</i> and <i>compulsory</i>. Let's think about how this changes the nature of the political voting game. 
+
+Firstly, people in the US don't have to vote, so only those that feel the need to do so, go to do it. This changes the voting game since politicians are now interested in geting more people to come out and vote for them, which is different than just getting more of the population to vote for them. There is now a game of either getting more people to vote, or less people to vote in a particular spot. For instance, in Ohio, the governor wanted shorter, or longer <a href="http://news.cincinnati.com/article/20120805/NEWS0106/308050053/Voting-time-partisan-battle">voting hours</a> depending on how favourable the local region is to his party. 
+
+Back to abortion. It's a <i>tremendous</i> emotional issue, and if you believe in <a href="http://www.amazon.com/gp/product/0060731338/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060731338&linkCode=as2&tag=schonberorgan-20">Freakonomics</a> an economic one. It's also one that I think very few people change their minds on. I don't know many adults who believe that abortion should be legal that change their minds, nor the other way around. So when a politician makes this an issue, they're engaging in wedge politics, effectively galvanizing a number of their constituents to ensure they vote for the candidate based on a deeply emotional, and universal issue.
+
+It doesn't matter that nobody changed their minds, or whether or not a majority of people hold the opinion. The trick with this kind of thing is to realise it's attempting to get as many people to vote, who otherwise would not have voted at all. It's also easier with emotional issues, and with universal emotional issues, it's even easier and more effective. Everyone has an opinion on Abortion, Gay marriage, criminal behaviour, etc. Not everyone has an opinion on employment, education, mining policy, environmentalism. Clearly, for most politicians, spending time talking about abortion is a good use of time, and it's a better use of time in the states than it is in Australia, by virtue of the whole population voting laws.
