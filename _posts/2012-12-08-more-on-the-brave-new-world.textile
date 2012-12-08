@@ -1,0 +1,26 @@
+---
+layout: post
+title: A Brave new World.
+---
+p(meta). December 8. It's raining and cold.
+
+In my last post I lamented how strange the new world is, and how quickly we got used to being able to find where we are anytime. This is a classic trend, and I noticed this change in society in the last eleciton in the US – politics went online, and everyone and their puppy was watching the news online, reading twitter comments. 
+
+The best moment like this was in the first US Presidential debate, where <a href="http://www.youtube.com/watch?v=D_ns4zuIVrs">Mitt Romney commented about big bird</a>:
+<blockquote>
+	What things would I cut from spending? Well, first of all, I will eliminate all programs by this test, if they don't pass it: Is the program so critical it's worth borrowing money from China to pay for it? And if not, I'll get rid of it. Obamacare's on my list. ... I'm sorry, Jim, I'm going to stop the subsidy to PBS. I'm going to stop other things. I like PBS, I love Big Bird. Actually like you, too. But I'm not going to -- I'm not going to keep on spending money on things to borrow money from China to pay for. That's number one.
+</blockquote>
+
+Within minutes, literally minutes, there were a dozen parody big bird accounts on twitter, all making fun of Mitt Romney. Sesame Street, The show, had a classy public response:
+<blockquote class="twitter-tweet tw-align-center"><p>Big Bird: My bed time is usually 7:45, but I was really tired yesterday and fell asleep at 7! Did I miss anything last night?</p>&mdash; Sesame Street (@sesamestreet) <a href="https://twitter.com/sesamestreet/status/253852653367468032" data-datetime="2012-10-04T13:42:43+00:00">October 4, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+So what about in upcoming elections? What are the lessons learned? It seems few. I read in the Sydney Morning Herald that <a href="http://www.smh.com.au/technology/technology-news/liberals-gag-twits-20121208-2b284.html">the Liberal party candidates have been advised to avoid Twitter</a>. What an amazingly poor choice. 
+
+Here's the deal. This is new media. Using Facebook, Google+, Twitter, your blog, your RSS feed, Display ads in the right spot, whatever, is the new means of engagement. Staying off it doesn't help you out, it just means you're not reachable, or read, by a proportion of the population. Young people today don't have TVs, they don't have landline phones. Mobile phones, the internet, and TV shows there are a mainstay.
+
+Politicians are worried because they have the opportunity to make fools of themselves so easily on Twitter. So the Liberal Party has banned the use of Twitter. The real answer is to avoid making yourself look like a fool. <a href="https://twitter.com/TurnbullMalcolm">Malcolm Turnbull</a> does a fabulous job of this at his current job. Keeping it classy, critical and honest. 
+
+A note to politicians out there: Keep writing, and use your mind before you write something. In the meantime, a word from Malcolm:
+<blockquote class="twitter-tweet"><p>Australia's 'Silicon Beach' is no Entrepreneurs Paradise <a href="http://t.co/8jDGQiJN" title="http://www.abc.net.au/news/2012-11-21/kohler-australias-silicon-beach-is-no-entrepreneurs-paradise/4383390">abc.net.au/news/2012-11-2…</a> @<a href="https://twitter.com/abcnews">abcnews</a></p>&mdash; Malcolm Turnbull (@TurnbullMalcolm) <a href="https://twitter.com/TurnbullMalcolm/status/271344870537453569" data-datetime="2012-11-21T20:10:33+00:00">November 21, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
