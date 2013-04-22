@@ -1,0 +1,28 @@
+---
+layout: post
+title: Taxi Drivers, why do they drive like they do?
+---
+p(meta). Apirl 21. One of the last days where it's less than 5 degrees.
+
+Everyone that lives in New York has seen how taxi drivers weave in and out of traffic, aggresively, almost insanely, day in and day out. I think we all put it down to just "the way it is" and how New York is, but the truth is that cab drivers drive hard and fast all around the world. Certainly in every other place i've lived in they have. 
+
+So I wonder, maybe there's a good reason for all this? Maybe they know something we don't? I started wondering about how cab drivers earn their wages. Let's break it down so we're all on the same page.
+
+Taxi drivers either own their cars or lease them from a larger company. Leasing a car means that you pay the company a certain dollar amount, say, 200 dollars, and then money for gas, to be able to drive the car for a 12 hour shift. Whatever the driver gets on top, they keep. Sounds approximately right, I think, there may be some other costs, and tax, of course, but that's later.
+
+How do they earn their income? This is well publicised so that nobody gets ripped off; In New York, we can see it <a href="http://www.nyc.gov/html/tlc/html/passenger/taxicab_rate.shtml">at the NYC.gov</a> site. To take a summary, basically, for every fare:
+<ol>
+	<li>There's a hire cost of $3 to $4.50</li>
+	<li>50 cents per ⅕ of a mile.</li>
+	<li>50 cents per minute waiting or driving less than 6 miles per hour</li>
+</ol>
+
+The way this payment system works hasn't changed in a long time. The reason is that the techonolgy behind it, metering, has been unchanged and simple for a long time. Measuring the distance and speed of a car travelled is reliable and eons old, and is simple to understand. Having an accurate clock is also old news, too, so basically this whole system works. It also sounds nice and fair to both drivers and passengers; Of course drivers stuck in traffic should get paid, and of course they should get paid more for longer trips. 
+
+So let's talk about what actually happens. Let's say there's a manhattan block, 200 metres or so. The light, straight ahead, is red or going to be by the time the driver gets there. Most of us would calmly drive down the road, in no hurry to get to the red light. After all, what's the point? 
+
+For a taxi driver though, this is essential money. They know they're going to be paid for the 200 metres of travel, which is fine, but if they speed like crazy and sit at the light for 30 seconds, that's 25 cents they've earned. Do this 4 or 5 times in a trip, and it's an extra dollar on top of a fare. This adds up. 
+
+The way that drivers are compensated, and spend their money encourages this. There's a high lease fee, that's fixed over a shift. Drivers are deeply motivated to earn every extra dollar, because after covering the costs of the lease, it's all theirs. The extra cost of petrol to speed instead of drive efficiently? It's a cost of doing business. And it's probably much lower than the added income of waiting at a light. 
+
+So, next time you're in a cab, remember, the drive is in a rush to wait in a light, not in a rush to get you to your destination.
