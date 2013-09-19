@@ -1,6 +1,3 @@
----
-layout: nil
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
@@ -10,7 +7,7 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://www.schonberger.org/</id>
  <author>
-   <name>Robert Schönberger</name>
+   <name>Robert SchÃ¶nberger</name>
    <email>robert@schonberger.org</email>
  </author>
 
